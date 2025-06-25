@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Emmanuel | Manuel-beep-lab
+#  Hi, I'm Emmanuel | Manuel-beep-lab
 
 🎯 **Aspiring Data Analyst • ML Developer • Data Scientist**  
   Passionate about using data to solve real-world problems in fraud detection, business intelligence, and automation.
 
----
 
-## 🚀 Featured Projects
+
+##  Featured Projects
 
 ### 🔐 [Credit Card Fraud Detection](https://github.com/Manuel-beep-lab/credit-card-fraud-detection)
 A machine learning model that detects fraudulent transactions with high accuracy.  
@@ -25,7 +25,7 @@ Predicts fraudulent airtime top-ups using behavior patterns.
 ✅ Deployed as an interactive Streamlit app  
 ✅ Ideal for mobile service provider use-cases
 
----
+
 
 ## 🧰 Tech Stack & Tools
 
@@ -35,7 +35,7 @@ Predicts fraudulent airtime top-ups using behavior patterns.
 - **Deployment:** Streamlit, GitHub  
 - **Data Modeling:** Star Schema, DAX
 
----
+
 
 ## 📈 Interests
 
@@ -44,7 +44,7 @@ Predicts fraudulent airtime top-ups using behavior patterns.
 - Building ML-powered business solutions  
 - Automating insights using Python & SQL
 
----
+
 
 ## 📫 Let's Connect!
  🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-devis-282682371/
